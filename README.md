@@ -1,5 +1,5 @@
 # Hi, I'm Payal Jajoriya! 👋
-### Aspiring Data Analyst / Scientist | B.Tech Final Year Student
+### Aspiring Data Scientist | B.Tech Final Year Student
 
 A passionate B.Tech student focusing on Data Science, Machine Learning, and Artificial Intelligence. I love turning raw data into meaningful insights and building predictive models to solve real-world problems.
 
