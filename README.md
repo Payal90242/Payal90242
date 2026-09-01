@@ -6,7 +6,7 @@ A passionate B.Tech student focusing on Data Science, Machine Learning, and Arti
 ---
 
 ## 📄 Resume
-* **[Click here to view my Resume](https://drive.google.com/file/d/1yBfS4kdcBzIdylStseiA03hdsVAZCz6W/view?usp=drivesdk)
+* **[Click here to view my Resume](https://drive.google.com/file/d/16edwIK622WwUjL15VrrU3kT8XTmZ46Yh/view?usp=drivesdk)
 
 ---
 
