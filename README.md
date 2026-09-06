@@ -22,6 +22,12 @@ A passionate B.Tech student focusing on Data Science, Machine Learning, and Arti
 ## 📬 Connect with Me ##
 * **LinkedIn:[Payal Jajoriya](https://www.linkedin.com/in/payal-jajoriya-3a0721301)
 
+## 🏅 Certifications
+
+- *[Data Analytics Job Simulation]* - [Deloitte (Issued by Forage)] (September, 2026) 
+ - *[Exploring Artificial Intelligence]* - [IBM SkillsBuild] (August, 2025) 
+- *[Frontend Development Virtual Internship]* - [CodeAlpha] (September, 2024) 
+- *[Web Development Virtual Internship]* - [CodSoft] (August, 2024) 
 
 <!--
 **Payal90242/Payal90242** is a ✨ _special_ ✨ repository because its `README.md`  appears on my GitHub profile.
